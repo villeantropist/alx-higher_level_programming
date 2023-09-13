@@ -12,4 +12,3 @@ class MyList(list):
 
         sortedlist = sorted(self)
         print(sortedlist)
-

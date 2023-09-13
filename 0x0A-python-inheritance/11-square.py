@@ -23,4 +23,3 @@ class Square(Rectangle):
         """Returns string representation of an instance of class square"""
         return "[{}] {}/{}".format(type(self).__name__, self.__size,
                                    self.__size)
-

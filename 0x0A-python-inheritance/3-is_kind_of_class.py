@@ -1,4 +1,4 @@
-###!/usr/bin/python3
+#!/usr/bin/python3
 """
 This program validate the kind of class of an obj
 """
